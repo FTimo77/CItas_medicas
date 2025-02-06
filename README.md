@@ -9,7 +9,7 @@ https://github.com/FTimo77/CItas_medicas/tree/master/dist
 Pedro Martínez /
 Lucía Fernández /
 Carlos Ramírez /
-- Admin
+- Admin:
 Juan_Gonzalez
 
 Copiamos y pegamos cualquiera de los usuarios e iniciará sesión en la cuenta respectiva que se ha ingresado.
