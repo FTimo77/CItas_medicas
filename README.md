@@ -6,9 +6,9 @@ https://github.com/FTimo77/CItas_medicas/tree/master/dist
 
 # Inicio de Sesión
 - Paciente:
-Pedro Martínez
-Lucía Fernández
-Carlos Ramírez
+Pedro Martínez /
+Lucía Fernández /
+Carlos Ramírez /
 - Admin
 Juan_Gonzalez
 
