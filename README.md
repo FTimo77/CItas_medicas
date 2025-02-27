@@ -10,7 +10,7 @@ Pedro Martínez /
 Lucía Fernández /
 Carlos Ramírez /
 - Admin:
-Juan_Gonzalez
+Admin
 
 Copiamos y pegamos cualquiera de los usuarios e iniciará sesión en la cuenta respectiva que se ha ingresado.
 # Funcionalidades
